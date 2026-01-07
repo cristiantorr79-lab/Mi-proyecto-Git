@@ -1,4 +1,5 @@
 Este es mi primer proyecto de GitHub 
-Y este es mi primer commit
-Para practicar
-Y ver lo aprendido en clases
+Estamos usando Git,GitHub y Vs Code
+Y aprendiendo como hacer repositorios 
+Y tratando de aprender Java
+Lo lograremos
