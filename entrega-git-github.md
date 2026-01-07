@@ -45,3 +45,12 @@ PS C:\Users\CATAN\Desktop\Desktop\Proyect Git 1> git log --oneline
 de4057a Commit 2
 2b23d1a Commit 1
 8b51470 Initial commit: agrega README
+
+## Evidencia de commits
+![Historial de commits](fotos/Commits.png)
+
+## Evidencia de rama dev-ejer
+![Rama dev-ejer](fotos/Dev-ejer.png)
+
+## Git log
+![Git log](fotos/Oneline.png)
